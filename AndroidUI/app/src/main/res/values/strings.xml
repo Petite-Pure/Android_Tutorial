@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidUI</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="btn_one">按钮1</string>
+    <string name="btn_two">按钮2</string>
+    <string name="btn_three">按钮3</string>
+    <string name="btn_four">按钮4</string>
+    <string name="btn_five">按钮5</string>
+    <string name="btn_six">按钮6</string>
+    <string name="username">用户名:</string>
+    <string name="password">密码:</string>
+    <string name="sign_in">登录</string>
+</resources>

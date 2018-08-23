@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foreground="@mipmap/ic_launcher"
+    android:foregroundGravity="left"
+    tools:context=".FrameLayout">
+
+    <!--帧布局，先放入的控件显示在底层，后放入的控件显示在顶层-->
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        android:text="@string/btn_one" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="210dp"
+        android:text="@string/btn_two" />
+
+</FrameLayout>
